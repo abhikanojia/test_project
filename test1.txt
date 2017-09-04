@@ -1,5 +1,1 @@
-
-This is third commit
-
-Change in text1 file from project2 directory
-
+A is an alphabet
