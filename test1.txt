@@ -1,1 +1,1 @@
-This is first commit
+Change in text1 file from project2 directory
